@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.swedbank.itacademy.unittests.LibraryTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-03-16T17:29:55" hostname="ADMIN" time="1.172">
+  <properties/>
+  <testcase name="Should_GetNumberOfBooks()" classname="com.swedbank.itacademy.unittests.LibraryTest" time="1.107"/>
+  <testcase name="Should_FindBookWithMaxPages_WhenLibraryHasBooks()" classname="com.swedbank.itacademy.unittests.LibraryTest" time="0.007"/>
+  <testcase name="Should_GetAllBooks()" classname="com.swedbank.itacademy.unittests.LibraryTest" time="0.007"/>
+  <testcase name="Should_ThrowRuntimeException_WhenLibraryIsEmpty()" classname="com.swedbank.itacademy.unittests.LibraryTest" time="0.011"/>
+  <testcase name="Should_FindBookByTitle()" classname="com.swedbank.itacademy.unittests.LibraryTest" time="0.01"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
